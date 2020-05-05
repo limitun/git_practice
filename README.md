@@ -10,3 +10,7 @@ IoT based Android Programming
 create JavaProject
 create Hello.java FIle
 2020.05.05
+
+2. second change
+edit README.md
+2020.05.06
